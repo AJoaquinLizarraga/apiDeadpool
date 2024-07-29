@@ -7,20 +7,6 @@
     "gender": "Europe/Zaporozhye"
   },
   {
-    "id": 2,
-    "first_name": "Trabulheira",
-    "last_name": "Portugal",
-    "email": "PT",
-    "gender": "Europe/Lisbon"
-  },
-  {
-    "id": 3,
-    "first_name": "Alingsås",
-    "last_name": "Sweden",
-    "email": "SE",
-    "gender": "Europe/Stockholm"
-  },
-  {
     "id": 4,
     "first_name": "Sayaxché",
     "last_name": "Guatemala",
